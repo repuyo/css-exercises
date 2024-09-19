@@ -1,0 +1,16 @@
+.the-odds {
+    background-color: rgb(255, 140, 159);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+#the-two {
+    color: rgb(63, 41, 190);
+    font-size: 36px;
+}
+.the-odds.the-three {
+    font-size: 24px;
+}
+#the-four {
+    background-color: rgb(167, 236, 120);
+    font-size: 24px;
+    font-weight: bold;
+}
